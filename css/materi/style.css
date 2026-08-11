@@ -1,0 +1,68 @@
+.a{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;
+    
+}
+
+.b{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;
+}
+
+.c{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;
+}
+
+.d{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;
+}
+
+.e{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;
+}
+
+.f{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;  
+}
+
+.g{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;   
+}
+
+.h{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;   
+}
+
+.i{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;    
+}
+
+.j{
+    background-color: rgb(140, 217, 140);
+    border: 5px solid;
+    border-radius: 20px;   
+}
+
+body{
+    background: linear-gradient(green, yellow, pink);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100;
+
+}
